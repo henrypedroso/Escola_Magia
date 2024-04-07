@@ -2,6 +2,7 @@
     background-color: black;
     color: yellow;
     display: flex;
+    padding: 24px 0;
 }
 
 .imagem-cabecalho{

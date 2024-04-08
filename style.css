@@ -31,4 +31,5 @@
 
 .escola{
     background-image: linear-gradient(#DAA520, #FF0000);
+    display: flex;
 }

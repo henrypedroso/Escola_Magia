@@ -33,6 +33,8 @@
     background-image: linear-gradient(#DAA520, #FF0000);
     display: flex;
     justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
 
 .titulo-escola{

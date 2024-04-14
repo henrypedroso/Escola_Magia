@@ -66,3 +66,7 @@
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
+
+.estudantes{
+    background-color: #d2dae2;
+}

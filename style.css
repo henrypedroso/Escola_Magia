@@ -89,3 +89,13 @@
     font-style: oblique;
     color: darkgoldenrod;
 }
+
+.rodape div img{
+    width: 40px;
+    margin: 0 5px;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;    
+}
